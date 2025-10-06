@@ -19,6 +19,8 @@
 <body >
    <?php include('header.php'); ?>
 
+    <?php include('body.php'); ?>
+
    <!--footer starts-->
 <?php include('footer.php'); ?>
         <!-- footer ends-->
