@@ -150,7 +150,8 @@
     
     <nav id="navbar">
       <a href="index.php">Home</a>
-      <a href="#">Services</a>
+      <a href="services.php">Services</a>
+      <a href="rentspace.php">Rent Your Space</a>
       <a href="aboutus.php">About</a>
       <a href="contactus.php">Contact</a>
 
